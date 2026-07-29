@@ -1,0 +1,21 @@
+{
+  "name": "mern-basic-ecommerce-client",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+  "dev": "vite --open",
+  "build": "vite build",
+  "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest"
+  }
+}
