@@ -42,5 +42,3 @@ Niloy Mart is a full-stack e-commerce web application developed using the MERN S
 ### Database
 
 - MongoDB
-- Mongoose ODM
-- MongoDB connection configured through the `MONGO_URI` environment variable
